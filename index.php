@@ -5,8 +5,8 @@
 	</head>
 
 <body> 
-	<h1>PHP Test with Srinath</h1>
-		<p><b>Srinath has a new PHP in Action</b></p>
+	<h1>PHP Test with darbar</h1>
+		<p><b>Darbar has a new PHP in Action</b></p>
 		<?php echo "The Current Date and Time is: <br />"; 
 		echo date("g:i A l, F j Y.");?> </p>
 	<h2>PHP Information</h2> 
